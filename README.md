@@ -1,5 +1,5 @@
 
-<h2> My social medias </h2>
+<h2> Social Networks </h2>
 <div  style="display: inline-block;
       padding-right: 4px;">
   <ul>
@@ -60,3 +60,5 @@
   </li>
           
    </ul>
+<h2> My articles </h2>
+<a href="https://drive.google.com/file/d/15QoSYui8y6vNONl9LOnzw1ZuaY-lYvcB/view?usp=sharing"> "Algoritmo memético aplicado a problema de otimização combinatória"</a>
