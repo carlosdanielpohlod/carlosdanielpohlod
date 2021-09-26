@@ -1,4 +1,11 @@
 
+<div><h1>Passionate about programming and artificial intelligence </h1> </div>
+<div id="statistics">
+      <div>
+            <img src="https://github-readme-stats.vercel.app/api?username=carlosdanielpohlod&show_icons=true&theme=radical" >
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdanielpohlod&layout=compact">
+      </div>
+</div>
 <h2> Social Networks </h2>
 <div  style="display: inline-block;
       padding-right: 4px;">
