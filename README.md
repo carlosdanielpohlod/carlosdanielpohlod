@@ -4,6 +4,9 @@ Software Developer at [Codeminer 42](https://www.codeminer42.com)
 
 Website: [carlospohlod.com](https://carlospohlod.com/)
 
+## Achievements
+🏆 3rd place in the classification of best articles of the National Meeting of Artificial and Computational Intelligence (2021, Brazil)
+
 ## Social Networks
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/carlosdanielpohlod)
@@ -33,6 +36,3 @@ Website: [carlospohlod.com](https://carlospohlod.com/)
 <a href="https://drive.google.com/file/d/15QoSYui8y6vNONl9LOnzw1ZuaY-lYvcB/view?usp=sharing">Algoritmo memético aplicado a problema de otimização combinatória</a>
 
 <a href="https://drive.google.com/file/d/1hX-Z7AWpI3w7BUx7c5aKxZ07I2lB7fXL/view?usp=sharing&usp=embed_facebook">Aprendizado de Maquina Aplicado a um Sistema de Recomendacão em e-commerce</a>
-
-## Achievements
-3rd place in the classification of best articles of the National Meeting of Artificial and Computational Intelligence (2021, Brazil)
