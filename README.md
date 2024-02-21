@@ -1,8 +1,15 @@
 # Carlos Daniel Pohlod
 
-Software Developer at [Codeminer 42](https://www.codeminer42.com)
+<img src="https://i.pinimg.com/originals/3f/f8/de/3ff8de311854ae91dae1919f7806ff86.gif" width="40px" heigth="40px"> Software Developer at [Codeminer 42](https://www.codeminer42.com)
 
 Website: [carlospohlod.com](https://carlospohlod.com/)
+
+## About
+
+About
+I have a bachelor's degree in computer science and work primarily as a consultant/backend programmer and DevOps professional. I know various programming languages, with Ruby being the one I've worked with for the longest time.
+
+I'm passionate about technology and programming, which motivates me to learn new technologies and specialize further in the field continuously 😁.
 
 ## Achievements
 🏆 3rd place in the classification of best articles of the National Meeting of Artificial and Computational Intelligence (2021, Brazil)
