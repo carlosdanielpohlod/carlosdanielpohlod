@@ -5,8 +5,6 @@
 Website: [carlospohlod.com](https://carlospohlod.com/)
 
 ## About
-
-About
 I have a bachelor's degree in computer science and work primarily as a consultant/backend programmer and DevOps professional. I know various programming languages, with Ruby being the one I've worked with for the longest time.
 
 I'm passionate about technology and programming, which motivates me to learn new technologies and specialize further in the field continuously 😁.
