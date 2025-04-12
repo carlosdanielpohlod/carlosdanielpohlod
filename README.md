@@ -1,6 +1,6 @@
 # Carlos Daniel Pohlod
 
-<img src="https://i.pinimg.com/originals/3f/f8/de/3ff8de311854ae91dae1919f7806ff86.gif" width="40px" heigth="40px"> Software Developer at [Codeminer 42](https://www.codeminer42.com)
+<img src="https://i.pinimg.com/originals/3f/f8/de/3ff8de311854ae91dae1919f7806ff86.gif" width="40px" heigth="40px"> Software Developer at [JetRockets](https://jetrockets.com/)
 
 Website: [carlospohlod.com](https://carlospohlod.com/)
 
