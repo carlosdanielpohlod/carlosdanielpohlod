@@ -10,13 +10,6 @@ Software developer at [JetRockets](https://jetrockets.com/)
 
 **My full profile lives there** — experience, education, scientific publications, open source and everything I write. This page is only the short version.
 
-## Merged into Rails
-
-- [#58623](https://github.com/rails/rails/pull/58623) — Check `PATCH` and `QUERY` in routing assertions with `method: :all` *(Action Pack)*
-- [#58606](https://github.com/rails/rails/pull/58606) — Fix encrypted fixtures for JSON columns, a bug open since 2023 *(Active Record)*
-
-I also maintain [rails_tracepoint_stack](https://github.com/carlosdanielpohlod/rails_tracepoint_stack), a gem that prints the runtime call tree of a Rails request.
-
 ## What I work with
 
 **Ruby** · Rails · Hotwire · **PostgreSQL** · MySQL · React · AWS · Docker · Kafka · OpenTelemetry
@@ -25,7 +18,7 @@ I also maintain [rails_tracepoint_stack](https://github.com/carlosdanielpohlod/r
 
 I publish about Ruby, Rails and PostgreSQL:
 
-- 📝 [Blog](https://carlospohlod.com/blog) — benchmarks, AST analysis, embedded Ruby
+- 📝 [Blog](https://carlospohlod.com/blog) — advanced topics
 - 🎥 [YouTube PT-BR](https://www.youtube.com/@carlospohlod_pt-br) · [YouTube EN](https://www.youtube.com/@CarlosPohloddev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-daniel-pohlod-software-engineer/) — weekly posts
 
