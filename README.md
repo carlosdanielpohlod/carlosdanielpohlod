@@ -4,7 +4,7 @@
 
 **Ruby and backend specialist, Rails contributor and content creator.**
 
-Software developer at [JetRockets](https://jetrockets.com/), consulting on high-traffic, business-critical platforms — from real estate finance to marketing SaaS. Bachelor's degree in Computer Science. I spend most of my time in the Ruby runtime, Rails internals and PostgreSQL performance.
+Software developer at [JetRockets](https://jetrockets.com/)
 
 ### 🌐 [carlospohlod.com](https://carlospohlod.com/)
 
